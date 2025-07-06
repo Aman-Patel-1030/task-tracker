@@ -2,7 +2,7 @@
 
 A modern, feature-rich personal task management application built with React.js. This project includes all core requirements plus advanced bonus features like search, priority levels, due dates, dark mode, and more!
 
-![Task Tracker Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Task+Tracker+Preview)
+![Task Tracker Preview](https://task-tracker-9o7l.vercel.app/)
 
 ## 🌟 Features
 
