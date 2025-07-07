@@ -2,7 +2,7 @@
 
 A modern, feature-rich personal task management application built with React.js. This project includes all core requirements plus advanced bonus features like search, priority levels, due dates, dark mode, and more!
 
-### LIVE URL ###:- https://task-tracker-9o7l.vercel.app/
+### LIVE URL:- https://task-tracker-9o7l.vercel.app/
 
 ## 🌟 Features
 
@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the project:
 
-- 📧 Email: your.email@example.com
+- 📧 Email: ap2787336@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/task-tracker/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/task-tracker/discussions)
 
@@ -295,17 +295,4 @@ Potential features for future versions:
 *This project was created as part of a pre-hire assignment to demonstrate React skills, component organization, and modern web development practices.*
 ```
 
-This comprehensive README file includes:
-
-1. **Complete feature overview** with checkmarks for implemented features
-2. **Detailed installation instructions** with multiple setup options
-3. **Project structure** showing the file organization
-4. **Usage guide** explaining how to use all features
-5. **Customization examples** for extending the application
-6. **Deployment instructions** for multiple platforms
-7. **Testing checklist** for quality assurance
-8. **Contributing guidelines** for open source collaboration
-9. **Future enhancement ideas** for continued development
-
-The README is professional, well-structured, and provides all the information needed for users, developers, and evaluators to understand and work with your task tracker application! 📝✨
 
